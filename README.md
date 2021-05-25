@@ -1,6 +1,6 @@
 # Hi there 👋
 
-🔭 I’m currently working on SSB85 transceiver and its subprojects.
+🔭 I’m currently working on [SSB85 transceiver](https://www.zoonman.com/projects/ssb85/) and its subprojects.
 
 <!--
 **zoonman/zoonman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
